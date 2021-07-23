@@ -1,1 +1,1 @@
-These two python codes generate position vs time and energy vs time curves for ideal coupled harmonic oscillators. This is from a project of 'Computational Physics 1', a compulsory course in BSc 3rd year Physics. 
+These python codes generate position vs time and energy vs time curves for ideal coupled harmonic oscillators. This is from a project of 'Computational Physics 1', a compulsory course in BSc 3rd year Physics. 
